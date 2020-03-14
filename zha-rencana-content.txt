@@ -3,6 +3,7 @@ RENCANA KONTEN ZHA
 BELAJAR JAVASCRIPT
 *framework
   =vue
+  =react
 *fundamental
 BELAJAR PHP
 INVERVIEW
