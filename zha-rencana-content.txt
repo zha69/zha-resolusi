@@ -4,6 +4,6 @@ BELAJAR JAVASCRIPT
 *framework
   =angular
   =react
-*fundamental
 BELAJAR PHP
+  =laravel
 INVERVIEW
