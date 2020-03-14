@@ -1,9 +1,11 @@
 RENCANA KONTEN ZHA
 
 BELAJAR JAVASCRIPT
-*framework
-  =angular
+*framework 
+  =vue
   =react
+*fundamental
 BELAJAR PHP
   =laravel
 INVERVIEW
+pytpn
